@@ -1,2 +1,2 @@
-# fraud-detection
-A project to detect frauds from customer transactions.
+# churn-prediction
+A project to predict churns from customer informaton.
