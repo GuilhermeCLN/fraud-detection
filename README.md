@@ -1,5 +1,7 @@
 # telco-churn-prediction
 
+<picture> <img align="right" src="https://img.freepik.com/vetores-premium/ilustracao-em-vetor-conceito-abstrato-de-pontuacao-de-chumbo_107173-25863.jpg?w=826" width = 300px></picture>
+
 Greetings! In this project we will use machine learning to predict customer churn. The data used was extracted from kaggle can be found [here](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
 ## Context:
